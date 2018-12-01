@@ -55,7 +55,7 @@ class Login extends Component {
               <div className="col-md-8 m-auto">
                 <h1 className="display-4 text-center">Login</h1>
                 <p className="lead text-center">
-                  Sign in to your Trollagy account
+                  Sign in to your Developer Connector account
                 </p>
                 <form onSubmit={this.onSubmit}>
 

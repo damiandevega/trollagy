@@ -56,7 +56,7 @@ class Register extends Component {
             <div className="row">
               <div className="col-md-8 m-auto">
                 <h1 className="display-4 text-center">Sign up</h1>
-                <p className="lead text-center">Create your Trollagy account</p>
+                <p className="lead text-center">Create your Developer Connector account</p>
                 <form noValidate onSubmit={this.onSubmit}>
 
                 <TextFieldGroup
